@@ -1,0 +1,14 @@
+This portfolio explores signal processing, feature extraction, and AI-based control logic inspired by Spark Biomedical’s mission to
+deliver wearable neurostimulation solutions for opioid withdrawal and related conditions.
+
+Notebooks:
+
+1. Biosignal Filtering and Visualization
+
+2. Feature Extraction (HRV, spectral power)
+
+3. Stress-State Detection with Machine Learning
+
+4. Closed-Loop Control Simulation
+
+5. Interactive Visualization of Neurostimulation Response
